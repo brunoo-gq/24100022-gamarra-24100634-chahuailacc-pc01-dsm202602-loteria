@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734039508102",
+    "project_id": "pc01-loteria-e2de7",
+    "storage_bucket": "pc01-loteria-e2de7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734039508102:android:b10a598ccab539f02d3d07",
+        "android_client_info": {
+          "package_name": "dev.bgamarra.loteriaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtJXzlnDsZrdENMjpsX0dsZ1bkqwk-Uf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
